@@ -69,3 +69,6 @@ this.Close();
 
  Email me if you have any qeustions 
 # SegvanJohnson@gmail.com
+
+
+![alt text](https://github.com/SegvanJohnson/CalculateLetterGrade/blob/master/CalculateLetterGrade-screenshot.jpg)

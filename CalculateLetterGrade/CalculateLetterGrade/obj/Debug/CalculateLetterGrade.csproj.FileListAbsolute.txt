@@ -1,0 +1,9 @@
+C:\Users\SegvanSama\Documents\Segvan\C#\CH2\Extra Exercises\Chapter 02CalculateLetterGrade\CalculateLetterGrade\CalculateLetterGrade\obj\Debug\CalculateLetterGrade.Form1.resources
+C:\Users\SegvanSama\Documents\Segvan\C#\CH2\Extra Exercises\Chapter 02CalculateLetterGrade\CalculateLetterGrade\CalculateLetterGrade\obj\Debug\CalculateLetterGrade.Properties.Resources.resources
+C:\Users\SegvanSama\Documents\Segvan\C#\CH2\Extra Exercises\Chapter 02CalculateLetterGrade\CalculateLetterGrade\CalculateLetterGrade\obj\Debug\CalculateLetterGrade.csproj.GenerateResource.cache
+C:\Users\SegvanSama\Documents\Segvan\C#\CH2\Extra Exercises\Chapter 02CalculateLetterGrade\CalculateLetterGrade\CalculateLetterGrade\obj\Debug\CalculateLetterGrade.csproj.CoreCompileInputs.cache
+C:\Users\SegvanSama\Documents\Segvan\C#\CH2\Extra Exercises\Chapter 02CalculateLetterGrade\CalculateLetterGrade\CalculateLetterGrade\bin\Debug\CalculateLetterGrade.exe.config
+C:\Users\SegvanSama\Documents\Segvan\C#\CH2\Extra Exercises\Chapter 02CalculateLetterGrade\CalculateLetterGrade\CalculateLetterGrade\bin\Debug\CalculateLetterGrade.exe
+C:\Users\SegvanSama\Documents\Segvan\C#\CH2\Extra Exercises\Chapter 02CalculateLetterGrade\CalculateLetterGrade\CalculateLetterGrade\bin\Debug\CalculateLetterGrade.pdb
+C:\Users\SegvanSama\Documents\Segvan\C#\CH2\Extra Exercises\Chapter 02CalculateLetterGrade\CalculateLetterGrade\CalculateLetterGrade\obj\Debug\CalculateLetterGrade.exe
+C:\Users\SegvanSama\Documents\Segvan\C#\CH2\Extra Exercises\Chapter 02CalculateLetterGrade\CalculateLetterGrade\CalculateLetterGrade\obj\Debug\CalculateLetterGrade.pdb

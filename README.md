@@ -1,4 +1,8 @@
 # CalculateLetterGrade
+
+![alt text](https://github.com/SegvanJohnson/CalculateLetterGrade/blob/master/CalculateLetterGrade-screenshot.jpg)
+
+
 Calculate Letter Grade
 Extra 2-1	Design a simple form
 In this exercise, you’ll design a form that lets the user enter a number grade and then displays the letter grade when the user clicks the Calculate button. 

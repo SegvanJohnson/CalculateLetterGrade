@@ -68,4 +68,4 @@ this.Close();
 7.	Run the application, enter a number between 0 and 100, and then click the Calculate button. A letter grade should be displayed and the focus should return to the Number Grade text box. Next, enter a different number and press the enter key to display the letter grade for that number. When you’re done, press the Esc key to end the application.
 
  Email me if you have any qeustions 
-#SegvanJohnson@gmail.com
+# SegvanJohnson@gmail.com
